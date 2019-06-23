@@ -1,0 +1,8 @@
+{
+  "name": "tera-mod-management",
+  "version": "1.0.3",
+  "description": "Manages the mods folder for tera toolbox",
+  "license": "ISC",
+  "author": "Caali",
+  "main": "index.js"
+}
